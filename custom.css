@@ -1,0 +1,39 @@
+.editor-instance .mtk7, .editor-instance .mtki {
+	font-family: "MonoLisa";
+    font-feature-settings: "ss02", "ss03";
+    font-size: 25px;
+}
+
+.customize-mtk6 {
+    font-family: "MonoLisa";
+    font-feature-settings: "ss10";
+    font-size: 25px;
+}
+
+.slider {
+    position: absolute !important;
+    right: 1px !important;
+    width: 2px !important;
+    background: #bc9abc !important;
+    left: auto !important;
+}
+
+.codicon-arrow-left, .codicon-arrow-right, .codicon-search {
+    display: none !important;
+}
+
+.search-label {
+    font-size: 16px;
+}
+
+.command-center-center {
+    border: none !important;
+   background-color: transparent !important;
+   color: #fff !important;
+}
+
+.titlebar {
+    background-color: #1a1a1a !important;
+}
+
+
