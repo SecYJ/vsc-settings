@@ -1,39 +1,49 @@
-.editor-instance .mtk7, .editor-instance .mtki {
+.editor-instance .mtk7,
+.editor-instance .mtki {
 	font-family: "MonoLisa";
-    font-feature-settings: "ss02", "ss03";
-    font-size: 25px;
+	font-feature-settings: "ss02", "ss03";
+	font-size: 25px;
+}
+
+.interactive-result-editor .mtk7,
+.interactive-result-editor .mtki {
+	font-size: 14px;
 }
 
 .customize-mtk6 {
-    font-family: "MonoLisa";
-    font-feature-settings: "ss10";
-    font-size: 25px;
+	font-family: "MonoLisa";
+	font-feature-settings: "ss10";
+	font-size: 25px;
 }
 
 .slider {
-    position: absolute !important;
-    right: 1px !important;
-    width: 2px !important;
-    background: #bc9abc !important;
-    left: auto !important;
+	position: absolute !important;
+	right: 1px !important;
+	width: 2px !important;
+	background: #bc9abc !important;
+	left: auto !important;
 }
 
-.codicon-arrow-left, .codicon-arrow-right, .codicon-search {
-    display: none !important;
+.codicon-arrow-left,
+.codicon-arrow-right,
+.codicon-search {
+	display: none !important;
 }
 
 .search-label {
-    font-size: 16px;
+	font-size: 16px;
 }
 
 .command-center-center {
-    border: none !important;
-   background-color: transparent !important;
-   color: #fff !important;
+	border: none !important;
+	background-color: transparent !important;
+	color: #fff !important;
 }
 
 .titlebar {
-    background-color: #1a1a1a !important;
+	background-color: #1a1a1a !important;
 }
 
-
+.quick-input-widget {
+	box-shadow: white 0px 3px 12px 3px !important;
+}
